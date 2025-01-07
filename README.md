@@ -68,13 +68,9 @@
 
 <div align="center">
 
-| ![image1](https://github.com/user-attachments/assets/7daedc76-a8c8-4f0b-8551-5d906a4a3830) | ![image2](https://github.com/user-attachments/assets/12492a51-b15a-4457-b86a-20fcceac3178) |
-|:--------------------------------------------------------:|:--------------------------------------------------------:|
-| **스클래시 화면**                                  | **메인 화면**                                  |
-| ![image3](https://github.com/user-attachments/assets/63a1f6eb-19a0-416f-b346-6fccecbdba9c) | ![image4](https://github.com/user-attachments/assets/3c14f3c5-f73e-436a-a989-4f6ad160fe4e) |
-| **직장 추천 결과 화면**                                  | **직장 상세 화면**                                  |
-| ![image5](https://github.com/user-attachments/assets/3b989e5d-f8d0-4d4b-bf21-665338ff9774) | ![image6](https://github.com/user-attachments/assets/92b31305-fd48-40d0-8e6a-15c4220b3d7d) |
-| **스크랩 화면**                                  | **게시판 화면**                                  |
+![GCS의 STANAG4586와 드론의 MSP 간에 데이터 통신 성공 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/420594ea-affc-4b20-8e7e-c45275be32ad/e426d6d3-f6c4-4556-9451-b087cd82689e/image.png)
+
+GCS의 STANAG4586와 드론의 MSP 간에 데이터 통신 성공 화면
 
 </div>
 
