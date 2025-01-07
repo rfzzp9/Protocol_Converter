@@ -40,7 +40,7 @@
 ![image](https://github.com/user-attachments/assets/68cacf40-363f-4b12-ba21-bc01793a0843)
 
 </div>
-<span style="font-size: 10px">GPS맵 (오른쪽), 드론 자세 모니터 (왼쪽)</span>
+######GPS맵 (오른쪽), 드론 자세 모니터 (왼쪽)
 
 
 ## 📌 개발 환경
