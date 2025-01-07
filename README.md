@@ -40,7 +40,12 @@
 
 
 ### **SW Architecture**
+
+<div align="center">
+    
 ![image](https://github.com/user-attachments/assets/435f8f3b-cdae-4133-ac51-63ffeea3b6b0)
+
+</div>
 
 - 드론 자세 모니터 개발
     - 드론의 자세 모니터링 등 자세 제어
@@ -68,9 +73,7 @@
 
 <div align="center">
 
-![GCS의 STANAG4586와 드론의 MSP 간에 데이터 통신 성공 화면](https://prod-files-secure.s3.us-west-2.amazonaws.com/420594ea-affc-4b20-8e7e-c45275be32ad/e426d6d3-f6c4-4556-9451-b087cd82689e/image.png)
-
-GCS의 STANAG4586와 드론의 MSP 간에 데이터 통신 성공 화면
+![image](https://github.com/user-attachments/assets/a4c36bec-e8ef-436b-b713-76161da37c12)
 
 </div>
 
