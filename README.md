@@ -34,7 +34,7 @@
     - GPS를 통해 드론 위치 표시 
 - 드론 자세 모니터 개발 (*GCS.cs*)
     - 드론의 자세 모니터링 등 자세 제어
-    - 
+
 <div align="center">
     
 ![image](https://github.com/user-attachments/assets/68cacf40-363f-4b12-ba21-bc01793a0843)
