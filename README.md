@@ -47,8 +47,17 @@
 
 </div>
 
-- 드론 자세 모니터 개발
-    - 드론의 자세 모니터링 등 자세 제어
+### **파일 구성**
+
+|파일명|설명|
+|------|---|
+|MSP_Drone.ino|드론 MSP 통신|
+|GCS.cs|드론의 자세 모니터링 등 자세 제어|
+|Map.cs|GPS를 통해 드론 위치 표시|
+|MSP.cs|MSP 프로토콜 정의|
+|DataLink.cs|GCS와 드론간 데이터 통신|
+|VSM.cs|GCS와 드론간 Protocol 변환부|
+|MSG_VSM.cs|STANAG와 MSP간 패킷 매핑 부분|
 
 
 ## 📌 성장 경험
