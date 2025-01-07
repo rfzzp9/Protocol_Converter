@@ -35,6 +35,7 @@
 - 드론 자세 모니터 개발 (*GCS.cs*)
     - 드론의 자세 모니터링 등 자세 제어
 
+GPS맵 (오른쪽), 드론 자세 모니터 (왼쪽)
 <div align="center">
     
 ![image](https://github.com/user-attachments/assets/68cacf40-363f-4b12-ba21-bc01793a0843)
@@ -73,6 +74,7 @@
 
 (시연 영상 - *https://www.youtube.com/watch?v=-fsmM3SVgms*)
 
+GCS의 STANAG4586와 드론의 MSP 간에 데이터 통신 성공 화면
 
 <div align="center">
 
