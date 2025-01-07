@@ -30,9 +30,9 @@
 ## 📌 개발 내용
 
 
-- GPS 맵 개발 (Map.cs, DataLink.cs)
+- GPS 맵 개발 (*Map.cs, DataLink.cs*)
     - GPS를 통해 드론 위치 표시 
-- 드론 자세 모니터 개발 (GCS.cs)
+- 드론 자세 모니터 개발 (*GCS.cs*)
     - 드론의 자세 모니터링 등 자세 제어
 
 
